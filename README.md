@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NonsenseAlok
 - 👀 I’m interested in Python and Development 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning React / Node JS
 - 💞️ I’m looking to collaborate on Android development 
 - 📫 How to reach me akj27032001akj@gmail.com
 
